@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "75528513937",
+    "project_id": "baraa-c415b",
+    "storage_bucket": "baraa-c415b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:75528513937:android:747438d56d492d2fd1d230",
+        "android_client_info": {
+          "package_name": "com.example.proj2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGhjyWr7jDv2NZmNvf7hnCq9FJHKFs1JE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
